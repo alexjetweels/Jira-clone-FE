@@ -4,10 +4,6 @@
   <h2>🔋 ts-nextjs-tailwind-starter</h2>
   <p>Next.js + Tailwind CSS + TypeScript starter packed with useful development features.</p>
 
-[![GitHub Repo stars](https://img.shields.io/github/stars/theodorusclarence/ts-nextjs-tailwind-starter)](https://github.com/theodorusclarence/ts-nextjs-tailwind-starter/stargazers)
-[![Depfu](https://badges.depfu.com/badges/fc6e730632ab9dacaf7df478a08684a7/overview.svg)](https://depfu.com/github/theodorusclarence/ts-nextjs-tailwind-starter?project_id=30160)
-[![Last Update](https://img.shields.io/badge/deps%20update-every%20sunday-blue.svg)](https://shields.io/)
-
 </div>
 
 ## Features
@@ -29,7 +25,6 @@ This repository is 🔋 battery packed with:
 - 👷 Github Actions — Lint your code on PR
 - 🚘 Automatic Branch and Issue Autolink — Branch will be automatically created on issue **assign**, and auto linked on PR
 - 🔥 Snippets — A collection of useful snippets
-- 👀 Open Graph Helper Function — Awesome open graph generated using [og](https://github.com/theodorusclarence/og), fork it and deploy!
 - 🗺 Site Map — Automatically generate sitemap.xml
 - 📦 Expansion Pack — Easily install common libraries, additional components, and configs.
 
@@ -40,8 +35,6 @@ You can also check all of the **details and demos** on my blog post:
 ### 1. Clone this template using one of the three ways
 
 Deploy to Vercel
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/git/external?repository-url=https%3A%2F%2Fgithub.com%2Ftheodorusclarence%2Fts-nextjs-tailwind-starter)
 
 ### 2. Install dependencies
 
